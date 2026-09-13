@@ -12,3 +12,6 @@
     <td><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oqpryo5poylvwmd7tdo2psof5u" alt="Spotify recently played"/></td>
   </tr>
 </table>
+
+<!-- discord server invite -->
+[![Discord Server](https://img.shields.io/discord/1401793772060151849?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/7mJQrkRW8y)
