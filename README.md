@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://lanyard.cnrad.dev/api/1019571708849561610?theme=dark&bg=1a1a2e&borderRadius=15px&idleMessage=Probably%20gaming%20or%20sleeping" alt="Discord Presence"/><br/>
+      <img src="https://lanyard.cnrad.dev/api/1019571708849561610" alt="Discord Presence"/><br/>
       <a href="https://discord.gg/7mJQrkRW8y"><img src="https://invidget.switchblade.xyz/7mJQrkRW8y" alt="Join our Discord"/></a>
     </td>
     <td><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oqpryo5poylvwmd7tdo2psof5u&bg_color=000000" alt="Spotify recently played"/></td>
