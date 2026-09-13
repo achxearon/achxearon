@@ -14,4 +14,4 @@
 </table>
 
 <!-- discord server invite -->
-[![Discord Server](https://img.shields.io/discord/1401793772060151849?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/7mJQrkRW8y)
+[![Join our Discord](https://invidget.switchblade.xyz/7mJQrkRW8y)](https://discord.gg/7mJQrkRW8y)
