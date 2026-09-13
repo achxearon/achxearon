@@ -4,3 +4,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achxearon/achxearon/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/achxearon/achxearon/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- discord-rich-presence -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1019571708849561610)](https://discord.com/users/1019571708849561610)
