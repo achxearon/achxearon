@@ -5,13 +5,12 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/achxearon/achxearon/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- discord-rich-presence + spotify-activity side by side -->
 <table>
   <tr>
-    <td><img src="https://lanyard.cnrad.dev/api/1019571708849561610" alt="Discord Presence"/></td>
+    <td>
+      <img src="https://lanyard.cnrad.dev/api/1019571708849561610" alt="Discord Presence"/><br/>
+      <a href="https://discord.gg/7mJQrkRW8y"><img src="https://invidget.switchblade.xyz/7mJQrkRW8y" alt="Join our Discord"/></a>
+    </td>
     <td><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oqpryo5poylvwmd7tdo2psof5u" alt="Spotify recently played"/></td>
   </tr>
 </table>
-
-<!-- discord server invite -->
-[![Join our Discord](https://invidget.switchblade.xyz/7mJQrkRW8y)](https://discord.gg/7mJQrkRW8y)
