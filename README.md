@@ -7,3 +7,6 @@
 
 <!-- discord-rich-presence -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/1019571708849561610)](https://discord.com/users/1019571708849561610)
+
+<!-- spotify-activity -->
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oqpryo5poylvwmd7tdo2psof5u)
