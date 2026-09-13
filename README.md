@@ -5,8 +5,10 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/achxearon/achxearon/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- discord-rich-presence -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/1019571708849561610)](https://discord.com/users/1019571708849561610)
-
-<!-- spotify-activity -->
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oqpryo5poylvwmd7tdo2psof5u)
+<!-- discord-rich-presence + spotify-activity side by side -->
+<table>
+  <tr>
+    <td><img src="https://lanyard.cnrad.dev/api/1019571708849561610" alt="Discord Presence"/></td>
+    <td><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31oqpryo5poylvwmd7tdo2psof5u" alt="Spotify recently played"/></td>
+  </tr>
+</table>
